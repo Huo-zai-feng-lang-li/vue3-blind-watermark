@@ -1,6 +1,3 @@
-CHANGELOG.md
-GIT-README.md
-tsconfig.json
 pnpm-lock.yaml
 .husky/
 *.lock
