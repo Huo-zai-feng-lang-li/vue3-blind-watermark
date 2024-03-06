@@ -1,0 +1,10 @@
+CHANGELOG.md
+GIT-README.md
+tsconfig.json
+pnpm-lock.yaml
+.husky/
+*.lock
+*.gif
+src/*
+# 这样，src/* 表示忽略 src 目录下的所有文件和子目录，而 !src/user.js 表示除了 user.js 文件之外的其他文件都会被忽略。
+# !src/user.js
