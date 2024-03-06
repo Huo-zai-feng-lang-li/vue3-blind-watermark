@@ -55,6 +55,16 @@ app
   </a>
 </p>
 
+### 显式水印
+
+- <a target="_blank" href="https://zhang-kun8888.gitee.io/vue3-tools-docs/vue3-directive-tools.html#watermarker
+  ">盲水印启动后，可以根据需求是否继续使用显式水印
+  </a>
+
+### 水印启动与否
+
+- 控制台会有提醒
+
 ### 贡献
 
 > 如果你有任何改进的建议或想要贡献代码，请随时创建 pull 请求或提交问题。

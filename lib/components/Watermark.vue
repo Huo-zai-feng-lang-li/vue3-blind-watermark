@@ -101,6 +101,10 @@ const addWatermark = () => {
 			canvas.height / scale
 		}px`; // 设置背景大小以匹配画布大小
 	}
+	console.log(
+		"% W is running",
+		"color: #1e80ff; font-size: 20px; background: #fff; padding: 8px;"
+	);
 };
 let observer: MutationObserver | null = null;
 
