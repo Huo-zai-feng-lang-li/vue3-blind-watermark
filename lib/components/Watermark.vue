@@ -102,7 +102,7 @@ const addWatermark = () => {
 		}px`; // 设置背景大小以匹配画布大小
 	}
 	console.log(
-		"% W is running",
+		"%cZhang waterMask is running --> Suggest prohibiting printing in the development environment",
 		"color: #1e80ff; font-size: 20px; background: #fff; padding: 8px;"
 	);
 };
