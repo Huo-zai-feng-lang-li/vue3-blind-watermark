@@ -14,7 +14,8 @@
 ## vue3-blind-watermark
 
 - 迄今为止 **_最易用_** 的盲水印实现方案
-- 这个插件的作用是在页面上添加一个可自动调整颜色以适应不同背景的 **不可见水印**，同时通过观察 DOM 变化来保证水印的持续存在（防篡改）。
+- 这个插件的作用是在页面上添加一个可自动调整颜色以适应不同背景的 **不可见水
+  印**，同时通过观察 DOM 变化来保证水印的持续存在（防篡改）。
 
 ### 安装
 
@@ -29,10 +30,10 @@ npm install vue3-blind-watermark
 ```js
 import watermark from "vue3-blind-watermark";
 app
-	.use(watermark, {
-		text: "版权归xxx所有",
-	})
-	.mount("#app");
+  .use(watermark, {
+    text: "版权归xxx所有",
+  })
+  .mount("#app");
 ```
 
 ### 盲水印测试
@@ -57,13 +58,8 @@ app
 
 ### 显式水印
 
-- <a target="_blank" href="https://zhang-kun8888.gitee.io/vue3-tools-docs/vue3-directive-tools.html#watermarker
-  ">盲水印启动后，可以根据需求是否继续使用显式水印
-  </a>
-
-### 水印启动与否
-
-- 控制台会有提醒
+- <a target="_blank" href="https://huo-zai-feng-lang-li.github.io/vue3-tools-docs/vue3-directive-tools.html#watermarker
+  ">盲水印启动后，可以根据需求是否继续使用显式水印 </a>
 
 ### 贡献
 
