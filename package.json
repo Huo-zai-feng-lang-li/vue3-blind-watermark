@@ -1,6 +1,6 @@
 {
   "name": "vue3-blind-watermark",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "vue3-blind-watermark ,迄今为止 最易用 的盲水印",
   "main": "lib/index.js",
   "repository": {
